@@ -218,8 +218,8 @@ msgstr "The automatic optimization strategies are based on leadning AI framework
 "thus it can train large-scale models efficiently."
 
 #: ../index.rst:20
-msgid "项目GitHub: https://github.com/PaddlePaddle/PaddleNLP"
-msgstr "Project Github: https://github.com/PaddlePaddle/PaddleNLP"
+msgid "项目GitHub: https://github.com/PaddlePaddle/PaddleNLP/blob/develop/README_en.md"
+msgstr "Project Github: https://github.com/PaddlePaddle/PaddleNLP/blob/develop/README_en.md"
 
 #: ../index.rst:21
 msgid "项目Gitee: https://gitee.com/paddlepaddle/PaddleNLP"
